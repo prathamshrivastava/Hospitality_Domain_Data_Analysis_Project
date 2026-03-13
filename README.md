@@ -11,25 +11,25 @@ My primary contribution in this project was:
 
 Key Metrics Implemented
 Some important business metrics created using DAX include:
-Revenue
-Total Bookings
-Total Capacity
-Successful Bookings
-Occupancy %
-Average Rating
-Cancellation %
-No Show Rate %
-ADR (Average Daily Rate)
-RevPAR (Revenue per Available Room)
-Realisation %
-DBRN, DSRN, DURN
-Advanced Metrics
-Revenue WoW Change %
-Occupancy WoW Change %
-ADR WoW Change %
-RevPAR WoW Change %
-Realisation WoW Change %
-DSRN WoW Change %
+Revenue,
+Total Bookings,
+Total Capacity,
+Successful Bookings,
+Occupancy %,
+Average Rating,
+Cancellation %,
+No Show Rate %,
+ADR (Average Daily Rate),
+RevPAR (Revenue per Available Room),
+Realisation %,
+DBRN, DSRN, DURN,
+Advanced Metrics,
+Revenue WoW Change %,
+Occupancy WoW Change %,
+ADR WoW Change %,
+RevPAR WoW Change %,
+Realisation WoW Change %,
+DSRN WoW Change %,
 
 Tools & Technologies
 1. Power BI
